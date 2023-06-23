@@ -11,6 +11,7 @@ namespace CsvChart
     {
         static void Main()
         {
-}
+            System.Console.WriteLine("hello");
+        }
     }
 }
